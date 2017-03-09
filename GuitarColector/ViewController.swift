@@ -4,7 +4,7 @@
 //
 //  Created by Johan Scholtz on 2017/03/09.
 //  Copyright © 2017 Johan Scholtz. All rights reserved.
-//
+// Johan's App
 
 import UIKit
 
